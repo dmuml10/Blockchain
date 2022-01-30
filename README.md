@@ -1,1 +1,3 @@
 # Blockchain
+
+Simple blockchain implementation
